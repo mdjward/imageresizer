@@ -3,7 +3,7 @@ Simple Image Batch Resizer
 
 This is a simple application written in Java to resize the images.  I wrote it as an out-of-hours side project to assist a friend - who was restricted to using - and colleague and sadly rushed it into production, so I plan to use this repository to evolve it into a much more cohesive, modular application with a keen view to reusability.
 
-A copy of the distributable (JAR) is [available for download here](dist/ImageResizer.jar).
+A copy of the distributable (JAR) is [available for download here](dist/ImageResizer.jar?raw=true).
 
 The application scans through a selection of supported files within a given source directory, with the following limitations at present:
  - This scan is non-recursive; any subdirectories of the given source (and subdirectories thereof, etc etc) are ignored;
